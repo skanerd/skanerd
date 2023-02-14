@@ -1,5 +1,5 @@
 Korean(ROK, NOT NORTH)<br>
-living in Japan since 2018,January
+living in Japan since January,2018
 
 Now I'm learning <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
@@ -22,3 +22,5 @@ I wnat to learn <br>
 Java(I can't find out T.T)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skanerd&show_icons=true&theme=synthwave)
+
+<!-- <img src="http://mazandi.herokuapp.com/api?handle={skanerd}&theme=warm"/> -->
