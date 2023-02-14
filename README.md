@@ -19,7 +19,7 @@ Now I'm learning <br>
 I wnat to learn <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=WebGL&logoColor=white">
-Java(I can't find out T.T)
+Java(I can't find it T.T)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skanerd&show_icons=true&theme=synthwave)
 
